@@ -1,4 +1,4 @@
-**Java FSD with Angular: Course End Project 1**
+<h1 align="center" > Java FSD with Angular: Course End Project 1 </h1>
 
 **1. Project Details**
 
@@ -46,7 +46,7 @@ The goal of the company is to deliver a high-end quality product as early as pos
 
 ![Sprint (2)](https://user-images.githubusercontent.com/55493651/224097140-5bacc319-65d2-48ee-989f-2d671fb203d0.png)
 
-Fig: Sprints Flow diagram
+<p align="center"> Fig: Sprints Flow diagram </p>
 
 - **Sprint 1: Planning and Creating Welcome Screen (Duration: 3 Days):** 
 
@@ -73,7 +73,7 @@ Testing an application and fixing any bugs if present and preparing the final do
 **Flowchart of overall application:**
 
 ![Frame 1](https://user-images.githubusercontent.com/55493651/224097694-44f4cab1-4cbd-4ae5-9f14-1a4010b6ec1c.png)
-Fig: Flowchart
+<p align="center"> Fig: Flowchart </p>
 
 **Algorithms:**
 
