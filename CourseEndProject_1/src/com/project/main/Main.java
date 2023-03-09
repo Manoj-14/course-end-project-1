@@ -103,7 +103,7 @@ public class Main {
 
 	private static void developerInfo() {
 		System.out.println("--------------------------------------------------------");
-		System.out.println("|                  Application name                    |");
+		System.out.println("|                     LockedMe.com                     |");
 		System.out.println("|                  Developer: Manoj M                  |");
 	}
 }
