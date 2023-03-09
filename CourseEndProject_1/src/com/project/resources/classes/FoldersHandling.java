@@ -14,10 +14,19 @@ public class FoldersHandling {
 
 	public List<File> listAllFiles() throws NullPointerException {
 		List<File> files = Arrays.asList(this.directory.listFiles());
+		files.sort(new Filesort());
 		return files;
 	}
 
 	public File getDirectory() {
 		return this.directory;
 	}
+}
+
+class Filesort implements Comparator<File> {
+	@Override
+	public int compare(File o1, File o2) {
+		return o1.getName().compareTo(o2.getName());
+	}
+
 }
